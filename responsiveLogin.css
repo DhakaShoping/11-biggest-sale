@@ -1,0 +1,58 @@
+@media only screen and (max-width: 600px) {
+
+
+    .container{
+        width: 90%;
+        overflow: hidden;
+        padding: 0px 20px 20px 20px;
+        top: 0px;
+        margin: 0px;
+        height: 100vh;
+    }
+
+    .header h2 {
+        font-size: 22px;
+        text-align: center;
+        width: 100%;
+    }
+    
+    .header p {
+        font-size: 14px;
+        width: 100%;
+        text-align: center;
+    }
+    
+    .containArea {
+        margin-top: 35px;
+    }
+    
+    .singupArea {
+        width: 90%;
+        float: none;
+        margin-top: 25px;
+        margin-left: 0px;
+    }
+  
+    .singupArea p {text-align: center;margin-bottom: 10px;font-size: 21px;font-family: sans-serif;}
+
+    .singupArea button {
+        width: 100%;
+        font-size: 20px;
+        height: 38px;
+    }
+    .singupArea button.twitter{
+        background: #1C9CEA;
+        margin-top: 10px;
+    }
+
+    button.twitterBTN {
+        margin-top: 15px;
+        background: #1C9CEA;
+    }
+
+
+
+
+
+
+}

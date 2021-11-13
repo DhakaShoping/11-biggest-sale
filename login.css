@@ -1,0 +1,68 @@
+.container {
+    width: 1170px;
+    margin: 10px auto;
+    background: #fff;
+    box-shadow: 2px 3px 11px 4px #ddd;
+    padding: 90px 60px;
+    position: absolute;
+    left: 50%;
+    top: 40px;
+    transform: translate(-50%);
+}
+
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background: #cccccc24;
+    position: relative;
+}
+
+.header h2 {
+    font-family: system-ui;
+    font-size: 28px;
+    color: #424242;
+    margin: 10px 0px;
+}
+
+.header p {
+    margin: 0px;
+    color: #4888F4;
+    font-family: sans-serif;
+}
+.containArea {
+    margin-top: 50px;
+    overflow: hidden;
+}
+
+
+
+.singupArea {
+    width: 35%;
+    float: left;
+    margin-left: 5%;
+}
+
+.singupArea p {
+    font-size: 25px;
+    font-family: serif;
+    color: #424242;
+    margin: -5px 0px 5px 0px;
+    width: 95%;
+}
+
+.singupArea button {
+    width: 95%;
+    height: 45px;
+    border: none;
+    font-size: 26px;
+    color: #fff;
+    background: #3b5998;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+button.twitterBTN {
+    margin-top: 15px;
+    background: #1C9CEA;
+}

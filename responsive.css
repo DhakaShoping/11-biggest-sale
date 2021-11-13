@@ -1,0 +1,62 @@
+@media only screen and (max-width: 600px) {
+
+
+    
+   
+    section.containArea .productImg {
+        width: 90%;
+        margin-left: 20px;
+    }
+    .productImg img{
+        width:100%;
+        height: 190px;
+    }
+    .productDic{
+        float: none;
+        width: 100%;
+        overflow: hidden;
+        /* margin: 0px; */
+    }
+   
+    section.containArea {
+        width: 100%;
+        padding: 20px 0px;
+    }
+    
+    section.containArea {
+        width: 90%;
+        padding: 50px 0px;
+        margin: auto;
+    }
+    
+    .productImg {
+        width: 100%;
+    }
+    
+    .productImg {
+        width: 100%;
+    }
+    
+    .productDic h2 {
+        font-size: 16px;
+        margin-top: 10px;
+        padding: 0px 10px;
+    }
+    
+    .productDic p {
+        font-size: 12px;
+        margin-top: 20px;
+        margin-left: 8px;
+    }
+    .buyNow a {
+        top: 22px;
+        font-size: 25px;
+    }
+    
+    .AddTocard a {
+        top: 14px;
+        font-size: 20px;
+    }
+
+
+}
